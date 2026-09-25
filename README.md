@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/prashantvaibhav59-creator/DSA/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/prashantvaibhav59-creator/DSA/tree/master/0367-valid-perfect-square) |
 ## Binary Search
 |  |
@@ -19,4 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/prashantvaibhav59-creator/DSA/tree/master/0001-two-sum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/prashantvaibhav59-creator/DSA/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/prashantvaibhav59-creator/DSA/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
